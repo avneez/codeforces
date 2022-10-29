@@ -5,6 +5,7 @@ using namespace std;
 #define pbb pop_back
 typedef long long ll;
 #define pii pair<int,int>
+#define vpii vector<pair<int,int>>
 #define all(x) (x).begin(),(x).end()
 
 int main() {
